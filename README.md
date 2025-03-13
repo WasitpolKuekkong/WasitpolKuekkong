@@ -1,7 +1,7 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi My name is WASITPHON KUEKKONG
 ==========================================================================================================================================
 
- Third-Year Software Engineering Student | Full-stack Developer 
+ Third-Year Software Engineering Student | Full-stack Developer, Web designer
 
 
 *   🌍  I'm based in Thailand
