@@ -9,7 +9,6 @@
 *   ✉️  You can contact me at [6531503072@lamduan.mfu.ac.th](mailto:6531503072@lamduan.mfu.ac.th)
 *   🚀  I'm currently working on [CoconutKnowledgeHub](http://CoconutKnowledgeHub)
 *   🧠  I'm learning Docker, Pytorch
-*   🤝  I'm open to collaborating on Web Develop and Machine Learning(Not for now)
 *   ⚡  I also do artwork like drawing a character and rigging some Virtual Youtuber's Model
 ### Skills 
 <p align="left">
