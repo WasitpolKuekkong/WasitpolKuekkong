@@ -32,32 +32,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/WasitpolKuekkong/WasitpolKuekkong/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/WasitpolKuekkong/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/WasitpolKuekkong/WasitpolKuekkong/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/WasitpolKuekkong/WasitpolKuekkong/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/WasitpolKuekkong/WasitpolKuekkong/output/snake.svg" alt="Snake animation" />
-
-###
