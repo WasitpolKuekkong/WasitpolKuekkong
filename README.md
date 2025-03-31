@@ -7,7 +7,7 @@
 *   🌍  I'm based in Thailand
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/wasitphon-kuekkong-3b3807353/)
 *   ✉️  You can contact me at [6531503072@lamduan.mfu.ac.th](mailto:6531503072@lamduan.mfu.ac.th)
-*   🚀  I'm currently working on [CoconutKnowledgeHub](http://CoconutKnowledgeHub)
+*   🚀  I'm currently working on [CoconutKnowledgeHub](https://coconut-kukps.com/)
 *   🧠  I'm learning Docker, Pytorch
 *   ⚡  I also do artwork like drawing a character as hobby and rigging some Virtual Youtuber's Model
 ### Skills 
